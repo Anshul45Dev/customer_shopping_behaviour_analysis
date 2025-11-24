@@ -101,7 +101,7 @@ This end-to-end project demonstrates how consumer shopping data can reveal power
 
 📷 Dashboard Preview
 
-<img width="1312" height="758" alt="Customer Behaviour Dashboard" src="customer_shopping_behaviour_dashboard.pdf" />
+<img width="1312" height="758" alt="Customer Behaviour Dashboard" src="https://github.com/user-attachments/assets/customer_shopping_behaviour_analysis_dashboard.pdf" />
 
 
 
